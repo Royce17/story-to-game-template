@@ -1,6 +1,6 @@
 <!-- 此处仅包含生成出的游戏的相关文档 -->
 <!-- 不包含专门给 Roo Code 的 Prompts -->
-- [简介](intro)
+- [简介](README)
 - [美术文档](arts/art-docs)
   <!-- - [风格指南](art-style-guide)       # 色彩、字体、视觉主题 -->
 - [设计文档](design/game-design-docs)
