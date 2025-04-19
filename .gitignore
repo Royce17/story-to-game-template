@@ -37,7 +37,7 @@ Thumbs.db
 # IDE配置文件
 .idea/
 .vscode/
-.roo/
+!.roo/
 .vs/
 *.code-workspace
 
