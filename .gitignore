@@ -1,0 +1,75 @@
+# ignore all . folders
+.*/
+
+### Godot ###
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+# Imported translations (automatically generated from CSV files)
+*.translation
+
+# Mono-specific ignores
+.mono/
+data_*/
+mono_crash.*.json
+
+# Godot项目导出目录
+export/
+builds/
+releases/
+*.pck
+*.zip
+
+# Godot编辑器临时文件
+*.translation
+*.import
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# IDE配置文件
+.idea/
+.vscode/
+.roo/
+.vs/
+*.code-workspace
+
+# 本地调试/测试文件
+local_only/
+*.log
+*.tmp
+
+# 二进制文件（如图片/音频的导入版本）
+*.import.*
+*.stex
+*.sample
+
+# 项目特定的配置文件
+user_settings.cfg
+
+# 可能的备份文件
+*.bak
+*.backup
+*~
+
+# Windows特定临时文件
+desktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# git files
+.git/
+
+# repomix
+.repomix/
+repomix-output.xml
