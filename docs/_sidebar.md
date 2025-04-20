@@ -15,4 +15,4 @@
   - [游戏整体实现架构](program/game-programming-architecture)
   - [测试文档](program/test-docs)
 - [其他规范](other/specifications)
-  - [命名规范](other/naming-conventions)
+  - [命名规范](other/naming-conventions) 
